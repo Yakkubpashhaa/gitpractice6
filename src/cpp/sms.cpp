@@ -1,1 +1,2 @@
-start writing program
+start writing program 
+i am start the code
